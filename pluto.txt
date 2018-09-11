@@ -1,1 +1,3 @@
 Pluto is too far away
+This is my file about pluto
+this is another line about pluto
